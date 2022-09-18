@@ -5,16 +5,11 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -38,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/solution-article-preview-component-53gXp54wcp
+- Live Site URL: https://beatrizang.github.io/article-preview-component/
 
 ## My process
 
